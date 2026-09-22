@@ -31,7 +31,7 @@ The CSV files are already included in the repository, so you do not need to down
 | --- | --- |
 | `dados/` | 15 ANAC CSV files: 12 months of VRA data, from August 2025 through July 2026, plus three reference registries. |
 | `notebooks/` | Bronze ingestion, Silver transformation, and Gold governance. The `.py` files use Databricks notebook format. |
-| `pipelines/qualidade/` | Data-quality rules and quarantine data for diagnostics. |
+| `pipelines/` | Data-quality rules and quarantine data for diagnostics. |
 | `sql/gold/` | Scripts for the airport dimension, flights fact table, and consumption table (OBT). |
 | `sql/gabarito/` | Queries that answer the business questions. |
 | `scripts/` | Data download and optional execution and Genie utilities. |
