@@ -31,7 +31,7 @@ Os arquivos CSV já estão incluídos no repositório. Portanto, você não prec
 | --- | --- |
 | `dados/` | 15 CSVs da ANAC: 12 meses de VRA, de agosto de 2025 a julho de 2026, e três cadastros de referência. |
 | `notebooks/` | Ingestão da camada Bronze, transformação da Silver e governança da Gold. Os arquivos `.py` estão no formato de notebooks Databricks. |
-| `pipelines/qualidade/` | Regras de qualidade e dados em quarentena para diagnóstico. |
+| `pipelines/` | Regras de qualidade e dados em quarentena para diagnóstico. |
 | `sql/gold/` | Scripts para criar a dimensão de aeroportos, o fato de voos e a tabela de consumo (OBT). |
 | `sql/gabarito/` | Consultas que respondem às perguntas de negócio. |
 | `scripts/` | Download dos dados e utilitários opcionais para execução e Genie. |
