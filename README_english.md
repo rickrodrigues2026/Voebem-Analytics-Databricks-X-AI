@@ -1,3 +1,23 @@
+## 📊 Architecture
+
+![Arquitetura do pipeline](docs/imagens/arquitetura.png)
+
+## 🔄 Pipeline execution
+
+![Pipeline VRA Silver - Quarentena](docs/imagens/pipeline_silver_quarentena.png)
+
+## 📈 Business answers (SQL)
+
+![Resultado de consulta do gabarito](docs/imagens/resultado_sql_gabarito.png)
+
+## 🏗️ Gold layer
+
+![Preview da tabela Gold OBT](docs/imagens/preview_gold_obt.png)
+
+## 🤖 Natural language insights (Genie)
+
+![Genie respondendo pergunta de negócio](docs/imagens/genie_insight.png)
+
 # ANAC Aviation — VoeBem Analytics
 
 Study materials from the **Data Engineering Immersion — September 2026**, using ANAC data and practices with Python, SQL, and Databricks.
